@@ -1,1 +1,1 @@
-print("Hi")
+print("HAO TIAN MIGHT BE GAY")
